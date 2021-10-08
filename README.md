@@ -33,6 +33,6 @@
 
 <h3> &nbsp;Where to find me: </h3> 
 
-[![Linkedin: Humberto Navarro](https://img.shields.io/badge/-humbertonc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/humbertonc)](www.linkedin.com/in/humbertonc)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/humbertonc)
 [![Gmail Badge](https://img.shields.io/badge/-humbertonavarroc@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:humbertonavarroc@gmail.com)](mailto:humbertonavarroc@gmail.com)
 [![GitHub Humberto Navarro]( https://img.shields.io/github/followers/humbertonc?label=follow&style=social)](https://github.com/humbertonc)
