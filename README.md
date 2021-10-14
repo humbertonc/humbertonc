@@ -15,6 +15,7 @@
   ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
+  ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
 
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
