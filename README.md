@@ -2,7 +2,7 @@
 
 - 🎓 &nbsp; Undergraduate **Computer Engineering** student at <a href="https://www.ufpb.br/">Universidade Federal da Paraíba</a>.
 - 💼 &nbsp; Working as a Machine Learning Intern at <a href="https://moises.ai/">Moises</a>.
-- 🐋 &nbsp; President at <a href="https://github.com/TailUFPB">TAIL</a>.
+- 🐋 &nbsp; Advisor at <a href="https://github.com/TailUFPB">TAIL</a>.
 - 🌱 &nbsp; Studying more about Artificial Intelligence and Software Engineering.
 
 <h3> &nbsp;Skills and Tools</h3>
