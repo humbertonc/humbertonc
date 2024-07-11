@@ -10,12 +10,14 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
-  
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=SQL)
+
+  ![PyTorch](https://img.shields.io/badge/-PyTorch-333333?style=flat&logo=PyTorch)
+  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
+  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=Flask)
   ![ScikitLearn](https://img.shields.io/badge/-ScikitLearn-333333?style=flat&logo=ScikitLearn)
-  ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas)
   ![Numpy](https://img.shields.io/badge/-Numpy-333333?style=flat&logo=Numpy)
-  ![Tensorflow](https://img.shields.io/badge/-Tensorflow-333333?style=flat&logo=Tensorflow)
   ![Jupyter](https://img.shields.io/badge/-Jupyter-333333?style=flat&logo=Jupyter)
 
   ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=flat&logo=graphql)
@@ -28,7 +30,7 @@
 <br/>
 
 <a href="https://github.com/humbertonc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertonc&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=humbertonc&theme=dracula&show_icons=true&count_private=true&include_all_commits=true" />
 </a>
 
 <br/>
